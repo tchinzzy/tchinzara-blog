@@ -6,11 +6,6 @@ bio: My research interests include developmental psychology, in particular
   website, it's a mixture of my academic/professional achievements and also a
   personal blog hidden in the tabs where I reflect on my PhD journey.
 social:
-  - icon: envelope
-    icon_pack: fab
-    link: ttc518@york.ac.uk
-    display:
-      header: true
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/TrishC_20
