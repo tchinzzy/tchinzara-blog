@@ -1,27 +1,37 @@
 ---
 title: Trish Chinzara
-role: PhD Student (University of York)
-avatar_filename: edba6f4b-10e7-47cf-a063-95967951abd0.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include developmental psychology, in particular
   Developmental Language Disorders and emotion recognition. Welcome to my
   website, it's a mixture of my academic/professional achievements and also a
   personal blog hidden in the tabs where I reflect on my PhD journey.
 social:
   - icon: envelope
-    icon_pack: fas
-    link: "about/#contact "
+    icon_pack: fab
+    link: ttc518@york.ac.uk
+    display:
+      header: true
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://twitter.com/TrishC_20
+  - icon: linkedin
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.linkedin.com/in/trishchinzara/
 organizations:
-  - name: 腾讯
-    url: ""
+  - name: York EMERALD Lab
+    url: https://sites.google.com/york.ac.uk/yorkemeraldlab/home
+education:
+  courses:
+    - course: MSc - Computational Cognitive Neuroscience
+      institution: University of Goldsmiths
+      year: ""
+    - course: BSc (Hons) - Sport and Exercise Sciences with Medical Sciences
+      institution: University of Exeter
+      year: ""
 superuser: true
 status:
   icon: ☕️
+role: PhD Student (University of York)
 ---
 I am a Psychology PhD student at the Univeristy of York working in the EMERALD Lab. 
 
